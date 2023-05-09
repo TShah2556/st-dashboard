@@ -5,7 +5,7 @@ import numpy as np
 from PIL import Image
 import threading
 #import dummy
-#import pyodbc
+import pyodbc
 import plotly.graph_objects as go
 import socket
 import pycomm3
